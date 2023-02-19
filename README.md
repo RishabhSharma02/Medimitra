@@ -1,6 +1,6 @@
 # MedMitra App
 
-A new Flutter project.
+A new AI Healthcare project.
 
 ## About
 Our healthcare app is designed to address some of the biggest challenges facing patients today. One of the biggest problems that patients face is remembering to take their medication on time. With our app's easy-to-use medication management system, patients can effortlessly scan their medicines and save them to their digital health records, complete with automatic scheduling and reminders.
